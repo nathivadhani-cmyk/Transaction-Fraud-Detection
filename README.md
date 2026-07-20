@@ -20,6 +20,15 @@ This project showcases an interactive Power BI dashboard developed to analyze fi
 
 ---
 
+## Dashboard Demo
+
+The complete Power BI dashboard demonstration video can be viewed using the link below:
+
+🔗 **Google Drive:**  
+https://drive.google.com/file/d/1IJCNmn0aN_74hZcRc5rbmwJdeXif52gM/view?usp=drive_link
+
+---
+
 ## Tools Used
 
 - Microsoft Power BI
